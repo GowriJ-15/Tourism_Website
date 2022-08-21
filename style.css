@@ -1,0 +1,105 @@
+@import url('https://fonts.google.com/share?selection.family=Raleway:wght@100;200');
+
+*{
+    box-sizing: border-box;
+    font-family: Raleway;
+    color: #333
+}
+
+html, body{
+    margin: 0;
+    padding: 0;
+
+}
+
+.main-header
+{   
+
+    background-color: rgba(0, 0, 0.2, 0.541);
+    background-image: url("bg.jpg");
+    background-blend-mode: multiply;
+    background-size: cover;
+    padding-bottom: 30px;
+
+}
+
+.nav ul {
+    margin: 0;
+}
+
+.nav li {
+    display: inline;
+}
+
+.nav a {
+    display: inline-block;
+    padding: .5em;
+    color: white;
+    text-decoration: none;
+}
+
+
+.main-nav {
+    text-align: center;
+    font-size: 1.1em;
+    font-weight: lighter;
+    border-bottom: 1px solid rgba(255, 255, 255, .3)
+}
+
+
+.page-name {
+    text-align: center;
+    margin: 0;
+    font-size: 4em;
+    font-family: "Booter - Zero Zero";
+    font-weight: normal;
+    color: white;
+}
+
+.content-section {
+    margin: 1em;
+}
+
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 1.5em;
+}
+
+
+.section-header {
+    
+    font-weight: normal;
+    color: #333;
+    text-align: center;
+    font-size: 2.5em;
+}
+
+.content-wrap {
+   
+   
+    word-wrap: break-word;      
+    font-size: 18px; 
+    text-align: center;   
+    image-rendering: smooth;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.merch-new
+{
+    background-color:beige;
+}
+.grid-container
+{
+    <div class="grid-item">1</div>
+  <div class="grid-item">2</div>
+  <div class="grid-item">3</div>
+  <div class="grid-item">4</div>
+  <div class="grid-item">5</div>
+  <div class="grid-item">6</div>
+  <div class="grid-item">7</div>
+  <div class="grid-item">8</div>
+  <div class="grid-item">9</div>
+</div>
+1
+}
